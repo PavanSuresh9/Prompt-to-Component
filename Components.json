@@ -1,0 +1,24 @@
+{
+  "header": {
+    "type": "header",
+    "content": "Logo and Search Bar",
+    "style": {
+      "backgroundColor": "#ffffff",
+      "height": "80px"
+    }
+  },
+  "button": {
+    "type": "button",
+    "content": "Submit",
+    "style": {
+      "backgroundColor": "#007bff",
+      "color": "#ffffff",
+      "borderRadius": "5px"
+    }
+  },
+  "form": {
+    "type": "form",
+    "fields": ["Username", "Password"],
+    "action": "Submit"
+  }
+}
